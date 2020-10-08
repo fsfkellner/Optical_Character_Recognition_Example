@@ -17,8 +17,8 @@ then enter:
 From here open the notebook entitled *ImageOCR.ipynb*
 
 ## Example:
-This image after it was scanned was given the filename *0F6185_0001_2*, my employer wanted to rename the file so that used the information  
-in the top right of this image. Renaming the files in the manner would ultimately make them more searchable and useable for future use.  
+This image after it was scanned was given the filename *0F6185_0001_2*, my employer wanted to rename the file so that used the information in the top right of this image.  
+Renaming the files in the manner would ultimately make them more searchable and useable for future use.  
 So rather than manually open each image and to see view this text I proposed using optical character recognition  
 to change the file name from *0F6185_0001_2.tif* to *DWW-A-5-1.tif*
 
