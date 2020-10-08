@@ -2,7 +2,7 @@
 This repository showcases my attempt to use optical character recognition to read text on an image and use this text to rename the file.  
 This repository can also be used as a tutorial for basic use of optical character recognition.  
 For those not wanting to download this repository or run this code you can view the notebook as a pdf.  
-The PDF is in this repository and is callde *ImageOCR.pdf*
+The PDF is in this repository and is called *ImageOCR.pdf*
 
 ## Getting Started
 Before you can use this repository locally you must first install tesseract a stand alone application.  
