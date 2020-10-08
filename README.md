@@ -2,6 +2,7 @@
 This repository showcases my attempt to use optical character recognition to read text on an image and use this text to rename the file.  
 This repositiry can also be used as a tutorial for basic use of optical character recognition.
 
+## Getting Started
 Before you can use this repository locally you must first install tesseract  
 This is a stand alone application. For [Windows](https://github.com/UB-Mannheim/tesseract/wiki) installation of tesseract for [Linx and Mac](https://github.com/tesseract-ocr/tesseract/wiki#windows)
  
