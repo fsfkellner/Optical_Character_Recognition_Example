@@ -25,5 +25,5 @@ in the top right of this image. Renaming the files in the manner would ultimatel
 So rather than manually open each image and to see view this text I proposed using optical character recognition  
 to change the file name from *0F6185_0001_2.tif* to *DWW-A-5-1.tif*
 
-![Historic Scanned Forest Service Imagery](images/singleImage/0F6185_0001_2.tif?raw=true)
+![Historic Scanned Forest Service Imagery](images/singleImage/0F6185_0001_2.png?raw=true)
 
