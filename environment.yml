@@ -1,4 +1,4 @@
-name: imageOCR6
+name: imageOCR
 channels:
   - conda-forge
   - defaults
