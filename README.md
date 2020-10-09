@@ -1,7 +1,7 @@
 ## Using Optical Character Recognition to read text on aerial imagery
 This repository showcases my attempt to use optical character recognition to read text on an image and use this text to rename the file.  
 This repository can also be used as a tutorial for basic use of optical character recognition.  
-For those not wanting to download this repository or run this code you can view the notebook as a pdf.  
+For those not wanting to download this repository or run the notebook you can view the notebook as a pdf.  
 The PDF is in this repository and is called *ImageOCR.pdf*
 
 ## Getting Started
@@ -20,10 +20,11 @@ then enter:
 From here open the notebook entitled *ImageOCR.ipynb*
 
 ## Example:
-This image after it was scanned was given the filename *0F6185_0001_2*, my employer wanted to rename the file so that it used the information in the top right of this image.  
+This image after it was scanned was given the filename *0F6185_0001_2.tif*, my employer wanted to rename the file so that it used the information in the top right of this image.  
 Renaming the files in the manner would ultimately make them more searchable and useable for future use.  
 So rather than manually open each image and to see view this text I proposed using optical character recognition  
-to change the file name from *0F6185_0001_2.tif* to *DWW-A-5-1.tif*
+to change the file name from *0F6185_0001_2.tif* to *DWW-A-5-1.tif* in this example. Open the notebook and follow  
+along with the steps I used to be able to read these text from the image.
 
 ![Historic Scanned Forest Service Imagery](images/singleImage/0F6185_0001_2.png?raw=true)
 
