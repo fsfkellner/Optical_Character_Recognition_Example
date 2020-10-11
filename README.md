@@ -6,16 +6,18 @@ The PDF is in this repository and is called *ImageOCR.pdf*
 
 ## Getting Started
 Before you can use this repository locally you must first install tesseract a stand alone application.  
-For [Windows](https://github.com/UB-Mannheim/tesseract/wiki) installation of tesseract for [Linx and Mac](https://github.com/tesseract-ocr/tesseract/wiki#windows)
+The notebook in this repository uses tesseract 5.0.0 Alpha version. Using other versions will likely result in different and  
+poorer text predictions that those presented here notebook.
+For [Windows](https://github.com/UB-Mannheim/tesseract/wiki) installation of tesseract for [Linx/Ubuntu](https://github.com/tesseract-ocr/tesseract/wiki#ubuntu-ppa) and [Mac](https://github.com/tesseract-ocr/tesseract/wiki#macos)
  
 Once tesseract is installled if you have Anaconda installation you can use the Anconda Prompt to install all of the python libraries  
-and their dependencies. In the Anaconda Prompt change directories so that you are in the local copy of this repository. In the prompt then enter: 
+and their dependencies. In the Anaconda Prompt change directories so that you are in the local copy of this repository. In the prompt then enter:
 
 *conda env create*  
 once the environment is created enter:  
 *conda activate imageOCR*  
 then enter:  
-*jupyter lab*
+*jupyter notebook*
 
 From here open the notebook entitled *ImageOCR.ipynb*
 
