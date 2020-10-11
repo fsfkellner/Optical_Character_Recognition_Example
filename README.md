@@ -12,7 +12,7 @@ The notebook in this repository uses tesseract 5.0.0 Alpha version. Using other 
 poorer text predictions that those presented in the notebooks in this repository.
 For [Windows](https://github.com/UB-Mannheim/tesseract/wiki) installation of tesseract for [Linx/Ubuntu](https://github.com/tesseract-ocr/tesseract/wiki#ubuntu-ppa) and [Mac](https://github.com/tesseract-ocr/tesseract/wiki#macos)
  
-Once tesseract is installed if you have Anaconda installation you can use the Anconda Prompt to install all of the python libraries and their dependencies.  
+Once tesseract is installed if you have an Anaconda installation you can use the Anconda Prompt to install all of the python libraries and their dependencies.  
 In the Anaconda Prompt change directories so that you are in the local copy of this repository. In the prompt then enter:
 
 *conda env create*  
