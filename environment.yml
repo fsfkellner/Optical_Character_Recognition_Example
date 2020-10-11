@@ -3,14 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - jupyter_client=6.1.6
-  - jupyter_core=4.6.3
+  - python=3.6.12
   - jupyterlab=2.2.8
-  - jupyterlab_server=1.2.0
   - notebook=6.1.4
   - pillow=7.2.0
-  - pip=20.2.2
-  - pip:
-    - matplotlib==3.3.2
-    - pytesseract==0.3.6
+  - matplotlib=3.3.2
+  - pytesseract=0.3.6
 prefix: C:\Users\frederickkellner\Anaconda3\envs\imageOCR
