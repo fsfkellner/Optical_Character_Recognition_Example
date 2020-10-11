@@ -1,5 +1,7 @@
 ## Using Optical Character Recognition to read text on aerial imagery
-This repository showcases my attempt to use optical character recognition to read text on an image and use this text to rename the file.  
+This repository showcases my attempt to use optical character recognition  
+to read text on an image and use this text to rename the file.
+
 This repository can also be used as a tutorial for basic use of optical character recognition.  
 For those not wanting to download this repository or run the notebook you can view the notebook as a pdf.  
 The PDF is in this repository and is called *ImageOCR.pdf*
@@ -10,8 +12,8 @@ The notebook in this repository uses tesseract 5.0.0 Alpha version. Using other 
 poorer text predictions that those presented in the notebooks in this repository.
 For [Windows](https://github.com/UB-Mannheim/tesseract/wiki) installation of tesseract for [Linx/Ubuntu](https://github.com/tesseract-ocr/tesseract/wiki#ubuntu-ppa) and [Mac](https://github.com/tesseract-ocr/tesseract/wiki#macos)
  
-Once tesseract is installed if you have Anaconda installation you can use the Anconda Prompt to install all of the python libraries  
-and their dependencies. In the Anaconda Prompt change directories so that you are in the local copy of this repository. In the prompt then enter:
+Once tesseract is installed if you have Anaconda installation you can use the Anconda Prompt to install all of the python libraries and their dependencies.  
+In the Anaconda Prompt change directories so that you are in the local copy of this repository. In the prompt then enter:
 
 *conda env create*  
 once the environment is created enter:  
